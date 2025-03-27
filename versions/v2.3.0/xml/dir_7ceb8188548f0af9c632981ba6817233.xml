@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.13.2" xml:lang="en-US">
+  <compounddef id="dir_7ceb8188548f0af9c632981ba6817233" kind="dir">
+    <compoundname>engines/query-sparql</compoundname>
+    <innerfile refid="comunica-browser_8js">comunica-browser.js</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="engines/query-sparql/"/>
+  </compounddef>
+</doxygen>
